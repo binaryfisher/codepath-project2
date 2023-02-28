@@ -89,7 +89,15 @@ button {
 }
 
 
-
+#easy{
+  background-color: rgb(174, 230, 174);
+}
+#hard{
+  background-color: rgb(212, 94, 94);
+}
+#medium{
+  background-color: #b1b4f3;
+}
 
 
 
