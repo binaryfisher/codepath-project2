@@ -40,14 +40,19 @@ h1 {
     font-size: 1.2em;
     cursor: pointer;
     transition: .15s;
+   
     
 }
 .card:hover {
-  box-shadow: 0 0 5px 2px #00000080
+  box-shadow: 0 0 5px 2px #00000080;
+  transform-style: preserve-3d; 
+  transition: 0.2s;
 }
 
 .flipped {
-  transform: perspective(1000px) rotateX(180deg, 0)
+  transform: perspective(1000px) rotateX(180deg);
+  transition: 2s;
+   
 }
 
 .card .front,.card .back {

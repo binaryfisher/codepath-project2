@@ -11,13 +11,13 @@ function App() {
   {question:"What is Javascript used for?", answer:"JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else."},{question:"What are JavaScript Data Types?",answer:"Number,String,Boolean,Object,Undefined"},{question:" What is the use of isNaN function?",answer:"isNan function returns true if the argument is not a number; otherwise, it is false."},{question:"What is negative Infinity?",answer:"Negative Infinity is a number in JavaScript which can be derived by dividing negative number by zero."},{question:"Is it possible to break JavaScript Code into several lines?",answer:"Breaking within a string statement can be done by using a backslash, ‘\,’ at the end of the first line."},{question:" Which company developed JavaScript?",answer:"Netscape is the software company that developed JavaScript."},{question:" What is ‘this’ keyword in JavaScript?",answer:"‘This’ keyword refers to the object from where it was called."},{question:"What is === operator?",answer:"=== is called a strict equality operator, which returns true when the two operands have the same value without conversion."},{question:"What are all the looping structures in JavaScript?",answer:"For, While, Do-while"}]
   const CARDS_NUM = flashCards.length;
   const turnCards = () =>{
-    //  rotateCard();
-    //  if(cardContent == flashCards[cardIndex].answer){
-    //   setCardContent(flashCards[cardIndex].question);
-    //  }else{
-    //   setCardContent(flashCards[cardIndex].answer);
-    //  }
-    setCardContent(flashCards[cardIndex].answer);
+     rotateCard();
+     if(cardContent == flashCards[cardIndex].answer){
+      setCardContent(flashCards[cardIndex].question);
+     }else{
+      setCardContent(flashCards[cardIndex].answer);
+     }
+   
      
   }
   const rotateCard = () =>{
