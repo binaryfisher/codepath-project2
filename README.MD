@@ -2,7 +2,7 @@
 
 Submitted by: **Shengwei Yu**
 
-This web app: **This app test user's basic knowledge of Javascript using flashcards**
+This web app: **This app tests user's basic knowledge of Javascript using flashcards**
 
 Time spent: **4** hours spent in total
 
@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(https://imgur.com/a/PH4Tof9)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
