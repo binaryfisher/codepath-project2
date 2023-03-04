@@ -41,7 +41,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+At first, it's a little bit hard for me to implement the effect of changing background color of the card and rotating the card when clicking the button.  
 
 ## License
 
